@@ -1,0 +1,7 @@
+C:\Users\ECE\source\repos\dtproje3\dtproje3\bin\Debug\dtproje3.exe.config
+C:\Users\ECE\source\repos\dtproje3\dtproje3\bin\Debug\dtproje3.exe
+C:\Users\ECE\source\repos\dtproje3\dtproje3\bin\Debug\dtproje3.pdb
+C:\Users\ECE\source\repos\dtproje3\dtproje3\obj\Debug\dtproje3.csprojAssemblyReference.cache
+C:\Users\ECE\source\repos\dtproje3\dtproje3\obj\Debug\dtproje3.csproj.CoreCompileInputs.cache
+C:\Users\ECE\source\repos\dtproje3\dtproje3\obj\Debug\dtproje3.exe
+C:\Users\ECE\source\repos\dtproje3\dtproje3\obj\Debug\dtproje3.pdb
